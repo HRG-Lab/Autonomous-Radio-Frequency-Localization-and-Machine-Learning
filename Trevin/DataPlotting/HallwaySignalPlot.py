@@ -1,6 +1,7 @@
 import csv
 import numpy as np
 import matplotlib.pyplot as plt
+import math
 
 # Number of positions marked off along the hallway
 NUM_POSITIONS = 33
@@ -31,7 +32,7 @@ for tile in range(NUM_POSITIONS):
                 address = row[2]
                 signalStrength = row[7]
                 if signalStrength.endswith(' dBm'):
-                    signalStrength = np.power(10,int(signalStrength[:-4])/10)
+                    signalStrength = int(signalStrength[:-4])
                 elif signalStrength=='':
                     rowNum += 1
                     break
@@ -51,43 +52,54 @@ for tile in range(NUM_POSITIONS):
         signalStrengths[tile+1] = [0 for i in signalStrengths[tile]]
         addressCount[tile+1] = [0 for i in addressCount[tile]]
 
-# Go back and put in zeros for all of the addresses with frames not observed at each location
+# Go back and put in -100dBm for all of the addresses with frames not observed at each location
 numAddresses = len(addressList)
 for i in range(len(signalStrengths)):
+    for j in range(len(signalStrengths[i])):
+        if signalStrengths[i][j] == 0:
+            signalStrengths[i][j] = -1000
     while len(signalStrengths[i]) < numAddresses:
-        signalStrengths[i].append(0)
+        signalStrengths[i].append(-1000)
         addressCount[i].append(0)
 
 # This will print the number of frames recieved from each address at the locations listed
 # for location in [0, 10, 21, 32]:
 #     print("Stations observed at location ", location, ":\n", addressCount[location])
 
+for i in range(numAddresses):
+    factor = max([signalStrengths[j][i] for j in range(NUM_POSITIONS)])
+    for j in range(NUM_POSITIONS):
+        if signalStrengths[j][i]==-1000:
+            signalStrengths[j][i] =-100
+        # else:
+        #     signalStrengths[j][i] -= factor
+
 # Plot all of them in the first subplot
-plt.subplot(2,1,1)
+# plt.subplot(2,1,1)
 
 for i in range(len(addressList)):
-    if (max([addressCount[j][i] for j in range(NUM_POSITIONS)]) > 700):
+    if (max([addressCount[j][i] for j in range(NUM_POSITIONS)]) > 600):
         plt.plot(range(NUM_POSITIONS),[signalStrengths[j][i] for j in range(NUM_POSITIONS)],label=addressList[i])
 
 
 # plt.ylim(ymax=0.0000001) # Adjust the maximum value of the y axis
-plt.title("Signal Powers Across Hallway")
-plt.ylabel("Signal Power (mW)")
+plt.title("RSSI Signal Powers Across Hallway in dBm")
+plt.ylabel("Signal Power (dBm)")
 plt.xlabel("Hallway Position (tile number)")
-plt.legend(loc='center left')
+plt.legend(loc='lower left')
 
 # Plot the ones that had smaller signal strengths in the second subplot
-plt.subplot(2,1,2)
+# plt.subplot(2,1,2)
 
-for i in range(len(addressList)):
-    if (max([addressCount[j][i] for j in range(NUM_POSITIONS)]) > 600) and (max([signalStrengths[j][i] for j in range(NUM_POSITIONS)]) < 1e-6):
-        plt.plot(range(NUM_POSITIONS),[signalStrengths[j][i] for j in range(NUM_POSITIONS)],label=addressList[i])
+# for i in range(len(addressList)):
+#     if (max([addressCount[j][i] for j in range(NUM_POSITIONS)]) > 600) and (max([signalStrengths[j][i] for j in range(NUM_POSITIONS)]) < 1e-6):
+#         plt.plot(range(NUM_POSITIONS),[signalStrengths[j][i] for j in range(NUM_POSITIONS)],label=addressList[i])
 
 
-plt.title("Signal Powers Across Hallway")
-plt.ylabel("Signal Power (mW)")
-plt.xlabel("Hallway Position (tile number)")
-# plt.legend(loc='center left')
+# plt.title("Signal Powers Across Hallway")
+# plt.ylabel("Signal Power (mW)")
+# plt.xlabel("Hallway Position (tile number)")
+# # plt.legend(loc='center left')
 
-plt.tight_layout()
+# plt.tight_layout()
 plt.show()

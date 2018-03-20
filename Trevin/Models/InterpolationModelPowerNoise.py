@@ -1,11 +1,12 @@
 import numpy as np
 from scipy.stats import norm
+from scipy.stats import laplace
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 # from matplotlib import rc
 # rc('font',**{'family':'sans-serif','sans-serif':['Helvetica']})
 
-np.random.seed(10)
+np.random.seed(23)
 np.set_printoptions(precision=1,linewidth=94,threshold=1000)
 
 # Initialize physical model parameters 
@@ -14,7 +15,7 @@ TX_DIRECTIVITY = 1      # Directivity of transmitting antenna (one for isotropic
 RX_DIRECTIVITY = 1      # Directivity of recieving antenna (one for isotropic)
 HALL_HEIGHT = 5         # Height of hall in meters
 HALL_LENGTH = 40        # Length of hall in meters
-NUM_ACCESS_POINTS = 3  # Number of access points visible in the hallway
+NUM_ACCESS_POINTS = 5  # Number of access points visible in the hallway
 NUM_LOCATIONS = 20      # Number of locations to distinguish from
 FREQUENCY = 2.4e6       # Frequency of wifi in Hertz
 
@@ -28,7 +29,7 @@ PLOT_STEP = 0.01
 PLOT_ALL = True
 
 # Generate vector for access point locations
-accessPoints = np.array([3, 10, 30]) # np.sort(np.round(10*HALL_LENGTH*np.random.rand(NUM_ACCESS_POINTS))/10)
+accessPoints = np.sort(np.round(10*HALL_LENGTH*np.random.rand(NUM_ACCESS_POINTS))/10)
 print("Access Point Locations: ", accessPoints,sep='')
 print("Standard Deviation of Noise: ", POWER_NOISE_STD_DEV, " milliwatts",sep='')
 # hall = np.linspace(0,HALL_LENGTH,NUM_LOCATIONS)
@@ -36,9 +37,10 @@ print("Standard Deviation of Noise: ", POWER_NOISE_STD_DEV, " milliwatts",sep=''
 # Function to generate data at a given location using the Friis equation with Rayleigh-distributed noise
 def generateSignal(location, accessPointLocations):
     d = np.sqrt(np.power(accessPointLocations-location,2) + np.power(HALL_HEIGHT, 2))
-    noise = np.random.normal(0,POWER_NOISE_STD_DEV)
+    noise = np.random.laplace(0,POWER_NOISE_STD_DEV)
     # E_field = np.sqrt(TX_POWER*TX_DIRECTIVITY*RX_DIRECTIVITY/2)*(LAMBDA/(4*np.pi*d))
     signalPowerVector = TX_POWER*TX_DIRECTIVITY*RX_DIRECTIVITY*np.power(LAMBDA/(4*np.pi*d),2) + noise
+    print(signalPowerVector)
     return signalPowerVector # 10*np.log10(signalPower)
 
 
@@ -48,7 +50,7 @@ def signalProbability(receivedSignal, location, accessPointLocations, accessPoin
     signalPower = TX_POWER*TX_DIRECTIVITY*RX_DIRECTIVITY*np.power(LAMBDA/(4*np.pi*d),2)
     powerDifference = -abs(receivedSignal - signalPower)
     # print(powerDifference)
-    return norm.pdf(powerDifference,scale=POWER_NOISE_STD_DEV)
+    return laplace.pdf(powerDifference,scale=POWER_NOISE_STD_DEV)
 
 
 # Function to generate probability distribution given data from sensor
