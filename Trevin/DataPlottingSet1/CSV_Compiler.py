@@ -16,7 +16,7 @@ addressCount = [[] for i in range(NUM_POSITIONS)]
 
 # Parameters for CSV to generate
 generateCSV = True
-training = False    # Set this to True to use the first 2/3 to make training set, false to use last 1/3 for testing set
+training = True    # Set this to True to use the first 2/3 to make training set, false to use last 1/3 for testing set
 TEST_TRAIN_SET_NUMBER = 1
 
 ###### MEAN ######
@@ -53,7 +53,7 @@ for tile in range(NUM_POSITIONS):
         for row in hallData:
             if rowNum==0:
                 header = row
-            elif ((training == True) and (rowNum < (2.0/3)*numLines)) or ((training == False) and (rowNum >= (2.0/3)*numLines)):
+            elif ((training == True)):# and (rowNum < (2.0/3)*numLines)) or ((training == False) and (rowNum >= (2.0/3)*numLines)):
                 address = row[2]
                 signalStrength = row[7]
                 if signalStrength.endswith(' dBm'):
@@ -93,7 +93,7 @@ for tile in range(NUM_POSITIONS):
         for row in hallData:
             if rowNum==0:
                 header = row
-            elif ((training == True) and (rowNum < (2.0/3)*numLines)) or ((training == False) and (rowNum >= (2.0/3)*numLines)):
+            elif ((training == True)):# and (rowNum < (2.0/3)*numLines)) or ((training == False) and (rowNum >= (2.0/3)*numLines)):
                 address = row[2]
                 signalStrength = row[7]
                 if signalStrength.endswith(' dBm'):
