@@ -1,0 +1,669 @@
+Frame Number,Time Offset,Source,Destination,RSSI (dBm),Protocol Name,Description,
+1,0.0173999,,,,NetmonFilter,NetmonFilter:Updated Capture Filter: None,
+2,0.0173999,,,,NetworkInfoEx,"NetworkInfoEx:Network info for , Network Adapter Count = 1",
+3,0.0173999,10.231.231.191,224.0.0.22,,IGMP,IGMP:IGMPv3 Membership Report,{IPv4:1}
+4,0.0175402,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:16,,ICMPv6,ICMPv6:MLDv2 Multicast Listener Report,{IPv6:2}
+5,0.0722094,[80000B C94267],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = BroadCast SSID",
+6,0.0731486,[80000B C94267],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa",
+7,0.0741437,[80000B C94267],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = BroadCast SSID",
+8,0.0808027,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+9,0.1211229,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:16,,ICMPv6,ICMPv6:MLDv2 Multicast Listener Report,{IPv6:2}
+10,0.1218610,10.231.231.191,224.0.0.22,,IGMP,IGMP:IGMPv3 Membership Report,{IPv4:1}
+11,0.1230679,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:16,,ICMPv6,ICMPv6:MLDv2 Multicast Listener Report,{IPv6:2}
+12,0.1241678,10.231.231.191,224.0.0.22,,IGMP,IGMP:IGMPv3 Membership Report,{IPv4:1}
+13,0.1273820,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:3,,LLMNR,"LLMNR:QueryId = 0xDE13, Standard, Query  for TrevinCollege of type ALL on class Internet","{UDP:3, IPv6:3}"
+14,0.1278743,10.231.231.191,224.0.0.252,,LLMNR,"LLMNR:QueryId = 0xDE13, Standard, Query  for TrevinCollege of type ALL on class Internet","{UDP:4, IPv4:5}"
+15,0.1832068,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+16,0.2856408,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+17,0.3138861,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:2,,DHCPV6,DHCPV6:MessageType = SOLICIT,"{UDP:3, IPv6:2}"
+18,0.3167317,10.231.231.191,52.239.161.42,,TCP,"TCP:[Keep alive]Flags=...A...., SrcPort=3343, DstPort=HTTPS(443), PayloadLen=1, Seq=1444628826 - 1444628827, Ack=2441439563, Win=68","{TCP:6, IPv4:5}"
+19,0.3820171,52.239.161.42,10.231.231.191,210 (0xD2),TCP,"TCP:[Keep alive ack]Flags=...A...., SrcPort=HTTPS(443), DstPort=3343, PayloadLen=0, Seq=2441439563, Ack=1444628827, Win=1024","{TCP:6, IPv4:5}"
+20,0.3852373,10.231.231.191,52.239.161.42,,TCP,"TCP:[Keep alive]Flags=...A...., SrcPort=3347, DstPort=HTTPS(443), PayloadLen=1, Seq=505669619 - 505669620, Ack=111167052, Win=65","{TCP:7, IPv4:5}"
+21,0.3879974,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+22,0.4509144,52.239.161.42,10.231.231.191,210 (0xD2),TCP,"TCP:[Keep alive ack]Flags=...A...., SrcPort=HTTPS(443), DstPort=3347, PayloadLen=0, Seq=111167052, Ack=505669620, Win=1024","{TCP:7, IPv4:5}"
+23,0.4904228,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+24,0.5178252,0.0.0.0,10.231.231.191,,ARP,"ARP:Request, 0.0.0.0 asks for 10.231.231.191",
+25,0.5179963,10.231.231.191,224.0.0.22,,IGMP,IGMP:IGMPv3 Membership Report,{IPv4:1}
+26,0.5182743,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:1,,ICMPv6,"ICMPv6:Neighbor Advertisement, Target = FE80:0:0:0:FDF4:508D:125E:8B3B",{IPv6:1}
+27,0.5184069,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:16,,ICMPv6,ICMPv6:MLDv2 Multicast Listener Report,{IPv6:2}
+28,0.5199041,0.0.0.0,10.231.231.191,210 (0xD2),ARP,"ARP:Request, 0.0.0.0 asks for 10.231.231.191",
+29,0.5381551,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:3,,LLMNR,"LLMNR:QueryId = 0xDE13, Standard, Query  for TrevinCollege of type ALL on class Internet","{UDP:3, IPv6:3}"
+30,0.5384378,10.231.231.191,224.0.0.252,,LLMNR,"LLMNR:QueryId = 0xDE13, Standard, Query  for TrevinCollege of type ALL on class Internet","{UDP:4, IPv4:5}"
+31,0.5758960,10.231.231.191,52.239.161.42,,TCP,"TCP:[Keep alive]Flags=...A...., SrcPort=3345, DstPort=HTTPS(443), PayloadLen=1, Seq=1978398055 - 1978398056, Ack=1399043416, Win=68","{TCP:8, IPv4:5}"
+32,0.5927260,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+33,0.6398433,52.239.161.42,10.231.231.191,210 (0xD2),TCP,"TCP:[Keep alive ack]Flags=...A...., SrcPort=HTTPS(443), DstPort=3345, PayloadLen=0, Seq=1399043416, Ack=1978398056, Win=1024","{TCP:8, IPv4:5}"
+34,0.6553120,cs9.wpc.v0cdn.net,10.231.231.191,209 (0xD1),TLS,TLS:TLS Rec Layer-1 SSL Application Data,"{TLS:11, SSLVersionSelector:10, TCP:9, IPv4:10}"
+35,0.6554368,cs9.wpc.v0cdn.net,10.231.231.191,209 (0xD1),TLS,TLS:TLS Rec Layer-1 Encrypted Alert,"{TLS:11, SSLVersionSelector:10, TCP:9, IPv4:10}"
+36,0.6554834,10.231.231.191,cs9.wpc.v0cdn.net,,TCP,"TCP:Flags=...A...., SrcPort=3349, DstPort=HTTPS(443), PayloadLen=0, Seq=175181980, Ack=2770330937, Win=162","{TCP:9, IPv4:10}"
+37,0.6556190,cs9.wpc.v0cdn.net,10.231.231.191,209 (0xD1),TCP,"TCP:Flags=...A...F, SrcPort=HTTPS(443), DstPort=3349, PayloadLen=0, Seq=2770330937, Ack=175181980, Win=290","{TCP:9, IPv4:10}"
+38,0.6556601,10.231.231.191,cs9.wpc.v0cdn.net,,TCP,"TCP:Flags=...A...F, SrcPort=3349, DstPort=HTTPS(443), PayloadLen=0, Seq=175181980, Ack=2770330937, Win=162","{TCP:9, IPv4:10}"
+39,0.6556879,10.231.231.191,cs9.wpc.v0cdn.net,,TCP,"TCP:Flags=...A...., SrcPort=3349, DstPort=HTTPS(443), PayloadLen=0, Seq=175181981, Ack=2770330938, Win=162","{TCP:9, IPv4:10}"
+40,0.6662993,cs9.wpc.v0cdn.net,10.231.231.191,209 (0xD1),TCP,"TCP:Flags=...A...., SrcPort=HTTPS(443), DstPort=3349, PayloadLen=0, Seq=2770330938, Ack=175181981, Win=290","{TCP:12, IPv4:10}"
+41,0.6952754,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+42,0.7975811,[24DEC6 11ECE1],[*BROADCAST],208 (0xD0),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 208 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+43,0.8155614,10.231.231.191,172.226.179.232,,TCP,"TCP:[Keep alive]Flags=...A...., SrcPort=3333, DstPort=HTTPS(443), PayloadLen=1, Seq=2206572766 - 2206572767, Ack=548358179, Win=64","{TCP:13, IPv4:1}"
+44,0.8165228,10.231.231.191,172.226.179.232,,TCP,"TCP:[Keep alive]Flags=...A...., SrcPort=3328, DstPort=HTTPS(443), PayloadLen=1, Seq=4031686445 - 4031686446, Ack=547995107, Win=68","{TCP:14, IPv4:1}"
+45,0.8165232,10.231.231.191,172.226.179.232,,TCP,"TCP:[Keep alive]Flags=...A...., SrcPort=3331, DstPort=HTTPS(443), PayloadLen=1, Seq=3544002605 - 3544002606, Ack=544734795, Win=66","{TCP:15, IPv4:1}"
+46,0.8219211,172.226.179.232,10.231.231.191,208 (0xD0),TCP,"TCP:[Keep alive ack]Flags=...A...., SrcPort=HTTPS(443), DstPort=3333, PayloadLen=0, Seq=548358179, Ack=2206572767, Win=1605","{TCP:13, IPv4:1}"
+47,0.8231040,172.226.179.232,10.231.231.191,208 (0xD0),TCP,"TCP:[Keep alive ack]Flags=...A...., SrcPort=HTTPS(443), DstPort=3328, PayloadLen=0, Seq=547995107, Ack=4031686446, Win=1783","{TCP:14, IPv4:1}"
+48,0.8233764,172.226.179.232,10.231.231.191,208 (0xD0),TCP,"TCP:[Keep alive ack]Flags=...A...., SrcPort=HTTPS(443), DstPort=3331, PayloadLen=0, Seq=544734795, Ack=3544002606, Win=1427","{TCP:15, IPv4:1}"
+49,0.8378739,10.231.231.191,52.239.161.42,,TCP,"TCP:[Keep alive]Flags=...A...., SrcPort=3342, DstPort=HTTPS(443), PayloadLen=1, Seq=3239054493 - 3239054494, Ack=3759116827, Win=1207","{TCP:16, IPv4:5}"
+50,0.8767956,10.231.231.191,172.226.179.232,,TCP,"TCP:[Keep alive]Flags=...A...., SrcPort=3329, DstPort=HTTPS(443), PayloadLen=1, Seq=51355589 - 51355590, Ack=559321312, Win=411","{TCP:17, IPv4:1}"
+51,0.8838293,172.226.179.232,10.231.231.191,207 (0xCF),TCP,"TCP:[Keep alive ack]Flags=...A...., SrcPort=HTTPS(443), DstPort=3329, PayloadLen=0, Seq=559321312, Ack=51355590, Win=1783","{TCP:17, IPv4:1}"
+52,0.9001024,[24DEC6 11ECE1],[*BROADCAST],207 (0xCF),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 207 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+53,0.9034749,52.239.161.42,10.231.231.191,207 (0xCF),TCP,"TCP:[Keep alive ack]Flags=...A...., SrcPort=HTTPS(443), DstPort=3342, PayloadLen=0, Seq=3759116827, Ack=3239054494, Win=1023","{TCP:16, IPv4:5}"
+54,0.9135166,10.231.231.191,172.226.179.232,,TCP,"TCP:[Keep alive]Flags=...A...., SrcPort=3330, DstPort=HTTPS(443), PayloadLen=1, Seq=2837928635 - 2837928636, Ack=557901160, Win=68","{TCP:18, IPv4:1}"
+55,0.9201688,172.226.179.232,10.231.231.191,207 (0xCF),TCP,"TCP:[Keep alive ack]Flags=...A...., SrcPort=HTTPS(443), DstPort=3330, PayloadLen=0, Seq=557901160, Ack=2837928636, Win=1783","{TCP:18, IPv4:1}"
+56,1.0023803,[24DEC6 11ECE1],[*BROADCAST],207 (0xCF),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 207 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+57,1.1047779,[24DEC6 11ECE1],[*BROADCAST],207 (0xCF),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 207 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+58,1.2072098,[24DEC6 11ECE1],[*BROADCAST],207 (0xCF),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 207 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+59,1.3095946,[24DEC6 11ECE1],[*BROADCAST],207 (0xCF),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 207 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+60,1.3730812,10.231.231.191,cy2.vortex.data.microsoft.com.akadns.net,,TCP,"TCP:[Keep alive]Flags=...A...., SrcPort=3338, DstPort=HTTPS(443), PayloadLen=1, Seq=2774412240 - 2774412241, Ack=1554214497, Win=63","{TCP:19, IPv4:3}"
+61,1.4122219,[24DEC6 11ECE1],[*BROADCAST],206 (0xCE),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 206 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+62,1.4215935,cy2.vortex.data.microsoft.com.akadns.net,10.231.231.191,206 (0xCE),TCP,"TCP:[Keep alive ack]Flags=...A...., SrcPort=HTTPS(443), DstPort=3338, PayloadLen=0, Seq=1554214497, Ack=2774412241, Win=514","{TCP:19, IPv4:3}"
+63,1.5143967,[24DEC6 11ECE1],[*BROADCAST],206 (0xCE),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 206 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+64,1.5176999,0.0.0.0,10.231.231.191,,ARP,"ARP:Request, 0.0.0.0 asks for 10.231.231.191",
+65,1.5193614,0.0.0.0,10.231.231.191,206 (0xCE),ARP,"ARP:Request, 0.0.0.0 asks for 10.231.231.191",
+66,1.5577434,10.231.231.191,172.226.179.232,,TCP,"TCP:[Keep alive]Flags=...A...., SrcPort=3332, DstPort=HTTPS(443), PayloadLen=1, Seq=864635986 - 864635987, Ack=564892056, Win=68","{TCP:20, IPv4:1}"
+67,1.5644687,172.226.179.232,10.231.231.191,205 (0xCD),TCP,"TCP:[Keep alive ack]Flags=...A...., SrcPort=HTTPS(443), DstPort=3332, PayloadLen=0, Seq=564892056, Ack=864635987, Win=1605","{TCP:20, IPv4:1}"
+68,1.6166862,[24DEC6 11ECE1],[*BROADCAST],205 (0xCD),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 205 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+69,1.6521529,52.239.161.42,10.231.231.191,205 (0xCD),TCP,"TCP:[Keep alive ack]Flags=...A.R.., SrcPort=HTTPS(443), DstPort=3345, PayloadLen=0, Seq=1399043416, Ack=1978398056, Win=0","{TCP:8, IPv4:5}"
+70,1.8216513,[24DEC6 11ECE1],[*BROADCAST],205 (0xCD),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 205 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+71,1.9239548,[24DEC6 11ECE1],[*BROADCAST],205 (0xCD),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 205 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+72,2.0263982,[24DEC6 11ECE1],[*BROADCAST],205 (0xCD),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 205 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+73,2.1286727,[24DEC6 11ECE1],[*BROADCAST],205 (0xCD),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 205 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+74,2.2312239,[24DEC6 11ECE1],[*BROADCAST],205 (0xCD),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 205 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+75,2.3148364,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:2,,DHCPV6,DHCPV6:MessageType = SOLICIT,"{UDP:3, IPv6:2}"
+76,2.3202941,10.231.231.191,239.255.255.250,,SSDP,"SSDP:Request, M-SEARCH * ","{HTTP:10, UDP:9, IPv4:27}"
+77,2.3336634,[24DEC6 11ECE1],[*BROADCAST],205 (0xCD),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 205 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+78,2.4359986,[24DEC6 11ECE1],[*BROADCAST],205 (0xCD),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 205 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+79,2.5173741,10.231.231.191,10.231.231.191,,ARP,"ARP:Request, 10.231.231.191 asks for 10.231.231.191",
+80,2.5383894,[24DEC6 11ECE1],[*BROADCAST],205 (0xCD),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 205 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+81,2.5604055,10.231.231.191,172.226.179.232,,TCP,"TCP:Flags=...A...F, SrcPort=3331, DstPort=HTTPS(443), PayloadLen=0, Seq=3544002606, Ack=544734795, Win=66","{TCP:15, IPv4:1}"
+82,2.5611137,10.231.231.191,172.226.179.232,,TCP,"TCP:Flags=...A...F, SrcPort=3328, DstPort=HTTPS(443), PayloadLen=0, Seq=4031686446, Ack=547995107, Win=68","{TCP:14, IPv4:1}"
+83,2.5616757,10.231.231.191,172.226.179.232,,TCP,"TCP:Flags=...A...F, SrcPort=3333, DstPort=HTTPS(443), PayloadLen=0, Seq=2206572767, Ack=548358179, Win=64","{TCP:13, IPv4:1}"
+84,2.5622064,10.231.231.191,172.226.179.232,,TCP,"TCP:Flags=...A...F, SrcPort=3329, DstPort=HTTPS(443), PayloadLen=0, Seq=51355590, Ack=559321312, Win=411","{TCP:17, IPv4:1}"
+85,2.5627264,10.231.231.191,172.226.179.232,,TCP,"TCP:Flags=...A...F, SrcPort=3330, DstPort=HTTPS(443), PayloadLen=0, Seq=2837928636, Ack=557901160, Win=68","{TCP:18, IPv4:1}"
+86,2.5632340,10.231.231.191,172.226.179.232,,TCP,"TCP:Flags=...A...F, SrcPort=3332, DstPort=HTTPS(443), PayloadLen=0, Seq=864635987, Ack=564892056, Win=68","{TCP:20, IPv4:1}"
+87,2.5637836,10.231.231.191,52.183.104.36,,TCP,"TCP:Flags=...A...F, SrcPort=3318, DstPort=HTTPS(443), PayloadLen=0, Seq=3171014771, Ack=1452998014, Win=898","{TCP:22, IPv4:21}"
+88,2.5659095,10.231.231.191,96.16.247.140,,TCP,"TCP:Flags=...A...F, SrcPort=3323, DstPort=HTTPS(443), PayloadLen=0, Seq=67428347, Ack=2157410220, Win=66","{TCP:24, IPv4:23}"
+89,2.5664432,10.231.231.191,52.239.161.42,,TCP,"TCP:Flags=...A...F, SrcPort=3343, DstPort=HTTPS(443), PayloadLen=0, Seq=1444628827, Ack=2441439563, Win=68","{TCP:6, IPv4:5}"
+90,2.5669747,10.231.231.191,52.239.161.42,,TCP,"TCP:Flags=...A...F, SrcPort=3347, DstPort=HTTPS(443), PayloadLen=0, Seq=505669620, Ack=111167052, Win=65","{TCP:7, IPv4:5}"
+91,2.5679742,10.231.231.191,52.239.161.42,,TCP,"TCP:Flags=...A...F, SrcPort=3342, DstPort=HTTPS(443), PayloadLen=0, Seq=3239054494, Ack=3759116827, Win=1207","{TCP:16, IPv4:5}"
+92,2.5680875,172.226.179.232,10.231.231.191,205 (0xCD),TLS,TLS:TLS Rec Layer-1 Encrypted Alert,"{TLS:26, SSLVersionSelector:25, TCP:13, IPv4:1}"
+93,2.5682470,10.231.231.191,172.226.179.232,,TCP,"TCP:Flags=...A.R.., SrcPort=3333, DstPort=HTTPS(443), PayloadLen=0, Seq=2206572768, Ack=548358210, Win=0","{TCP:13, IPv4:1}"
+94,2.5685301,10.231.231.191,52.239.161.42,,TCP,"TCP:Flags=...A...F, SrcPort=3344, DstPort=HTTPS(443), PayloadLen=0, Seq=1753119911, Ack=1653531410, Win=68","{TCP:27, IPv4:5}"
+95,2.5690433,10.231.231.191,52.239.161.42,,TCP,"TCP:Flags=...A...F, SrcPort=3346, DstPort=HTTPS(443), PayloadLen=0, Seq=221076265, Ack=219438586, Win=68","{TCP:28, IPv4:5}"
+96,2.5691690,172.226.179.232,10.231.231.191,205 (0xCD),TCP,"TCP:Flags=...A...F, SrcPort=HTTPS(443), DstPort=3333, PayloadLen=0, Seq=548358210, Ack=2206572768, Win=1605","{TCP:29, IPv4:1}"
+97,2.5696707,172.226.179.232,10.231.231.191,205 (0xCD),TLS,TLS:TLS Rec Layer-1 Encrypted Alert,"{TLS:31, SSLVersionSelector:30, TCP:15, IPv4:1}"
+98,2.5698221,10.231.231.191,172.226.179.232,,TCP,"TCP:Flags=...A.R.., SrcPort=3331, DstPort=HTTPS(443), PayloadLen=0, Seq=3544002607, Ack=544734826, Win=0","{TCP:15, IPv4:1}"
+99,2.5698926,172.226.179.232,10.231.231.191,205 (0xCD),TCP,"TCP:Flags=...A...F, SrcPort=HTTPS(443), DstPort=3331, PayloadLen=0, Seq=544734826, Ack=3544002607, Win=1427","{TCP:32, IPv4:1}"
+100,2.5698926,172.226.179.232,10.231.231.191,205 (0xCD),TLS,TLS:TLS Rec Layer-1 Encrypted Alert,"{TLS:16, SSLVersionSelector:15, TCP:14, IPv4:1}"
+101,2.5698926,172.226.179.232,10.231.231.191,205 (0xCD),TCP,"TCP:Flags=...A...F, SrcPort=HTTPS(443), DstPort=3328, PayloadLen=0, Seq=547995138, Ack=4031686447, Win=1783","{TCP:14, IPv4:1}"
+102,2.5701047,10.231.231.191,172.226.179.232,,TCP,"TCP:Flags=...A.R.., SrcPort=3328, DstPort=HTTPS(443), PayloadLen=0, Seq=4031686447, Ack=547995138, Win=0","{TCP:14, IPv4:1}"
+103,2.5705444,172.226.179.232,10.231.231.191,205 (0xCD),TLS,TLS:TLS Rec Layer-1 Encrypted Alert,"{TLS:19, SSLVersionSelector:18, TCP:17, IPv4:1}"
+104,2.5705444,172.226.179.232,10.231.231.191,205 (0xCD),TCP,"TCP:Flags=...A...F, SrcPort=HTTPS(443), DstPort=3329, PayloadLen=0, Seq=559321343, Ack=51355591, Win=1783","{TCP:17, IPv4:1}"
+105,2.5707296,10.231.231.191,172.226.179.232,,TCP,"TCP:Flags=...A.R.., SrcPort=3329, DstPort=HTTPS(443), PayloadLen=0, Seq=51355591, Ack=559321343, Win=0","{TCP:17, IPv4:1}"
+106,2.5725159,172.226.179.232,10.231.231.191,205 (0xCD),TLS,TLS:TLS Rec Layer-1 Encrypted Alert,"{TLS:34, SSLVersionSelector:33, TCP:20, IPv4:1}"
+107,2.5726527,10.231.231.191,172.226.179.232,,TCP,"TCP:Flags=...A.R.., SrcPort=3332, DstPort=HTTPS(443), PayloadLen=0, Seq=864635988, Ack=564892087, Win=0","{TCP:20, IPv4:1}"
+108,2.5727169,172.226.179.232,10.231.231.191,206 (0xCE),TCP,"TCP:Flags=...A...F, SrcPort=HTTPS(443), DstPort=3332, PayloadLen=0, Seq=564892087, Ack=864635988, Win=1605","{TCP:35, IPv4:1}"
+109,2.5755693,10.231.231.191,cy2.vortex.data.microsoft.com.akadns.net,,TCP,"TCP:Flags=...A...F, SrcPort=3338, DstPort=HTTPS(443), PayloadLen=0, Seq=2774412241, Ack=1554214497, Win=63","{TCP:19, IPv4:3}"
+110,2.5771461,10.231.231.191,172.217.9.138,,TCP,"TCP:Flags=...A...F, SrcPort=3357, DstPort=HTTPS(443), PayloadLen=0, Seq=4211180387, Ack=2416848095, Win=67","{TCP:37, IPv4:36}"
+111,2.5772265,10.231.231.191,172.217.9.138,,TCP,"TCP:Flags=...A.R.., SrcPort=3357, DstPort=HTTPS(443), PayloadLen=0, Seq=4211180388, Ack=2416848095, Win=0","{TCP:37, IPv4:36}"
+112,2.5784876,96.16.247.140,10.231.231.191,206 (0xCE),TLS,TLS:TLS Rec Layer-1 Encrypted Alert,"{TLS:39, SSLVersionSelector:38, TCP:24, IPv4:23}"
+113,2.5786266,10.231.231.191,96.16.247.140,,TCP,"TCP:Flags=...A.R.., SrcPort=3323, DstPort=HTTPS(443), PayloadLen=0, Seq=67428348, Ack=2157410251, Win=0","{TCP:24, IPv4:23}"
+114,2.5787139,96.16.247.140,10.231.231.191,206 (0xCE),TCP,"TCP:Flags=...A...F, SrcPort=HTTPS(443), DstPort=3323, PayloadLen=0, Seq=2157410251, Ack=67428348, Win=984","{TCP:39, IPv4:23}"
+115,2.5859707,10.231.231.191,239.255.255.250,,SSDP,"SSDP:Request, M-SEARCH * ","{HTTP:41, UDP:40, IPv4:27}"
+116,2.5860905,10.231.231.191,clients.l.google.com,,TCP,"TCP:Flags=...A...F, SrcPort=3355, DstPort=HTTPS(443), PayloadLen=0, Seq=4192100151, Ack=2798847141, Win=64","{TCP:42, IPv4:46}"
+117,2.5952376,clients.l.google.com,10.231.231.191,206 (0xCE),TCP,"TCP:Flags=...A...F, SrcPort=HTTPS(443), DstPort=3355, PayloadLen=0, Seq=2798847141, Ack=4192100152, Win=191","{TCP:42, IPv4:46}"
+118,2.5953287,10.231.231.191,clients.l.google.com,,TCP,"TCP:Flags=...A...., SrcPort=3355, DstPort=HTTPS(443), PayloadLen=0, Seq=4192100152, Ack=2798847142, Win=64","{TCP:42, IPv4:46}"
+119,2.6085141,172.226.179.232,10.231.231.191,206 (0xCE),TCP,"TCP:Flags=...A...., SrcPort=HTTPS(443), DstPort=3330, PayloadLen=0, Seq=557901160, Ack=2837928637, Win=1783","{TCP:18, IPv4:1}"
+120,2.6204213,cy2.vortex.data.microsoft.com.akadns.net,10.231.231.191,206 (0xCE),TCP,"TCP:Flags=...A...F, SrcPort=HTTPS(443), DstPort=3338, PayloadLen=0, Seq=1554214497, Ack=2774412242, Win=514","{TCP:19, IPv4:3}"
+121,2.6205103,10.231.231.191,cy2.vortex.data.microsoft.com.akadns.net,,TCP,"TCP:Flags=...A...., SrcPort=3338, DstPort=HTTPS(443), PayloadLen=0, Seq=2774412242, Ack=1554214498, Win=63","{TCP:19, IPv4:3}"
+122,2.6292708,52.183.104.36,10.231.231.191,206 (0xCE),TCP,"TCP:Flags=...A...F, SrcPort=HTTPS(443), DstPort=3318, PayloadLen=0, Seq=1452998014, Ack=3171014772, Win=511","{TCP:22, IPv4:21}"
+123,2.6293486,10.231.231.191,52.183.104.36,,TCP,"TCP:Flags=...A...., SrcPort=3318, DstPort=HTTPS(443), PayloadLen=0, Seq=3171014772, Ack=1452998015, Win=898","{TCP:22, IPv4:21}"
+124,2.6297190,52.239.161.42,10.231.231.191,206 (0xCE),TCP,"TCP:Flags=...A.R.., SrcPort=HTTPS(443), DstPort=3343, PayloadLen=0, Seq=2441439563, Ack=1444628828, Win=0","{TCP:6, IPv4:5}"
+125,2.6301697,52.239.161.42,10.231.231.191,206 (0xCE),TCP,"TCP:Flags=...A...F, SrcPort=HTTPS(443), DstPort=3347, PayloadLen=0, Seq=111167052, Ack=505669621, Win=1024","{TCP:7, IPv4:5}"
+126,2.6302167,10.231.231.191,52.239.161.42,,TCP,"TCP:Flags=...A...., SrcPort=3347, DstPort=HTTPS(443), PayloadLen=0, Seq=505669621, Ack=111167053, Win=65","{TCP:7, IPv4:5}"
+127,2.6316229,52.239.161.42,10.231.231.191,206 (0xCE),TCP,"TCP:Flags=...A.R.., SrcPort=HTTPS(443), DstPort=3344, PayloadLen=0, Seq=1653531410, Ack=1753119912, Win=0","{TCP:27, IPv4:5}"
+128,2.6318286,52.239.161.42,10.231.231.191,206 (0xCE),TCP,"TCP:Flags=...A...F, SrcPort=HTTPS(443), DstPort=3342, PayloadLen=0, Seq=3759116827, Ack=3239054495, Win=1023","{TCP:16, IPv4:5}"
+129,2.6318696,10.231.231.191,52.239.161.42,,TCP,"TCP:Flags=...A...., SrcPort=3342, DstPort=HTTPS(443), PayloadLen=0, Seq=3239054495, Ack=3759116828, Win=1207","{TCP:16, IPv4:5}"
+130,2.6348200,52.239.161.42,10.231.231.191,206 (0xCE),TCP,"TCP:Flags=...A.R.., SrcPort=HTTPS(443), DstPort=3346, PayloadLen=0, Seq=219438586, Ack=221076266, Win=0","{TCP:28, IPv4:5}"
+131,2.6406447,[24DEC6 11ECE1],[*BROADCAST],207 (0xCF),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 207 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+132,2.6521931,172.226.179.232,10.231.231.191,207 (0xCF),TLS,TLS:TLS Rec Layer-1 Encrypted Alert,"{TLS:44, SSLVersionSelector:43, TCP:18, IPv4:1}"
+133,2.6523996,10.231.231.191,172.226.179.232,,TCP,"TCP:Flags=...A.R.., SrcPort=3330, DstPort=HTTPS(443), PayloadLen=0, Seq=2837928637, Ack=557901191, Win=0","{TCP:18, IPv4:1}"
+134,2.6527584,172.226.179.232,10.231.231.191,207 (0xCF),TCP,"TCP:Flags=...A...F, SrcPort=HTTPS(443), DstPort=3330, PayloadLen=0, Seq=557901191, Ack=2837928637, Win=1783","{TCP:44, IPv4:1}"
+135,2.7432476,[24DEC6 11ECE1],[*BROADCAST],207 (0xCF),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 207 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+136,2.8455696,[24DEC6 11ECE1],[*BROADCAST],208 (0xD0),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 208 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+137,2.9480027,[24DEC6 11ECE1],[*BROADCAST],208 (0xD0),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 208 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+138,3.0502998,[24DEC6 11ECE1],[*BROADCAST],208 (0xD0),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 208 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+139,3.1528322,[24DEC6 11ECE1],[*BROADCAST],208 (0xD0),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 208 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+140,3.2551828,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+141,3.2776783,[E0ACCB 6AC602],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 10",
+142,3.3144682,[E0ACCB 6AC602],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+143,3.3576484,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+144,3.4600046,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+145,3.5171453,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:2,,ICMPv6,ICMPv6:Router Solicitation,{IPv6:11}
+146,3.5622988,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+147,3.5872216,10.231.231.191,239.255.255.250,,SSDP,"SSDP:Request, M-SEARCH * ","{HTTP:41, UDP:40, IPv4:27}"
+148,3.6648478,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+149,3.9719663,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+150,4.0668843,10.231.231.191,64.233.180.188,,TCP,"TCP:Flags=...A...F, SrcPort=3294, DstPort=5228, PayloadLen=0, Seq=4183061410, Ack=2504375921, Win=66","{TCP:3, IPv4:2}"
+151,4.0743452,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+152,4.0827486,10.231.231.191,239.255.255.250,,SSDP,"SSDP:Request, M-SEARCH * ","{HTTP:46, UDP:45, IPv4:27}"
+153,4.1767236,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+154,4.2790549,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+155,4.3675773,10.231.231.191,64.233.180.188,,TCP,"TCP:[Segment Lost]Flags=...A...F, SrcPort=3294, DstPort=5228, PayloadLen=0, Seq=4183061410, Ack=2504375921, Win=66","{TCP:3, IPv4:2}"
+156,4.3815565,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+157,4.3856829,64.233.180.188,10.231.231.191,210 (0xD2),TCP,"TCP:Flags=.....R.., SrcPort=5228, DstPort=3294, PayloadLen=0, Seq=2504375921, Ack=0, Win=0","{TCP:3, IPv4:2}"
+158,4.5554255,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for WPAD   <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+159,4.5572336,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:3,,LLMNR,"LLMNR:QueryId = 0x2257, Standard, Query  for wpad of type Host Addr on class Internet","{UDP:47, IPv6:3}"
+160,4.5575154,10.231.231.191,224.0.0.252,,LLMNR,"LLMNR:QueryId = 0x2257, Standard, Query  for wpad of type Host Addr on class Internet","{UDP:48, IPv4:5}"
+161,4.5637592,[F04F7C 1B02BC],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 210 dBm, Rate = Unknown, SSID = BroadCast SSID",
+162,4.5746999,[F04F7C 1B02BC],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 210 dBm, Rate = Unknown, SSID = BroadCast SSID",
+163,4.5825067,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for WPAD   <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+164,4.5840407,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:3,,LLMNR,"LLMNR:QueryId = 0xD89F, Standard, Query  for wpad of type Host Addr on class Internet","{UDP:49, IPv6:3}"
+165,4.5842126,10.231.231.191,224.0.0.252,,LLMNR,"LLMNR:QueryId = 0xD89F, Standard, Query  for wpad of type Host Addr on class Internet","{UDP:50, IPv4:5}"
+166,4.5971424,[F04F7C 1B02BC],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 210 dBm, Rate = Unknown, SSID = BroadCast SSID",
+167,4.6080762,[F04F7C 1B02BC],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 210 dBm, Rate = Unknown, SSID = BroadCast SSID",
+168,4.6126585,[F04F7C 1B02BC],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 210 dBm, Rate = Unknown, SSID = BroadCast SSID",
+169,4.6237228,[F04F7C 1B02BC],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 210 dBm, Rate = Unknown, SSID = BroadCast SSID",
+170,4.6363104,[F04F7C 1B02BC],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 210 dBm, Rate = Unknown, SSID = BroadCast SSID",
+171,4.6472567,[F04F7C 1B02BC],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 210 dBm, Rate = Unknown, SSID = BroadCast SSID",
+172,4.6581003,[F04F7C 1B02BC],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 210 dBm, Rate = Unknown, SSID = BroadCast SSID",
+173,4.6697051,[F04F7C 1B02BC],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 210 dBm, Rate = Unknown, SSID = BroadCast SSID",
+174,4.6738221,[F04F7C 1B02BC],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 210 dBm, Rate = Unknown, SSID = BroadCast SSID",
+175,4.6864448,[F04F7C 1B02BC],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 210 dBm, Rate = Unknown, SSID = BroadCast SSID",
+176,4.6888178,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+177,4.6973508,[F04F7C 1B02BC],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 210 dBm, Rate = Unknown, SSID = BroadCast SSID",
+178,4.7081983,[F04F7C 1B02BC],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 210 dBm, Rate = Unknown, SSID = BroadCast SSID",
+179,4.7195966,[F04F7C 1B02BC],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 210 dBm, Rate = Unknown, SSID = BroadCast SSID",
+180,4.7305257,[F04F7C 1B02BC],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 210 dBm, Rate = Unknown, SSID = BroadCast SSID",
+181,4.7912279,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+182,4.8936290,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+183,4.9679314,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:3,,LLMNR,"LLMNR:QueryId = 0x2257, Standard, Query  for wpad of type Host Addr on class Internet","{UDP:47, IPv6:3}"
+184,4.9682581,10.231.231.191,224.0.0.252,,LLMNR,"LLMNR:QueryId = 0x2257, Standard, Query  for wpad of type Host Addr on class Internet","{UDP:48, IPv4:5}"
+185,4.9951619,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:3,,LLMNR,"LLMNR:QueryId = 0xD89F, Standard, Query  for wpad of type Host Addr on class Internet","{UDP:49, IPv6:3}"
+186,4.9954946,10.231.231.191,224.0.0.252,,LLMNR,"LLMNR:QueryId = 0xD89F, Standard, Query  for wpad of type Host Addr on class Internet","{UDP:50, IPv4:5}"
+187,4.9959407,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+188,5.0844459,10.231.231.191,239.255.255.250,,SSDP,"SSDP:Request, M-SEARCH * ","{HTTP:46, UDP:45, IPv4:27}"
+189,5.0982776,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+190,5.2008219,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+191,5.3031708,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+192,5.3051436,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for WPAD   <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+193,5.3202894,10.231.231.191,239.255.255.250,,SSDP,"SSDP:Request, M-SEARCH * ","{HTTP:10, UDP:9, IPv4:27}"
+194,5.3324985,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for WPAD   <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+195,5.4055719,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+196,5.5079272,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+197,5.5840912,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for GFEMKYQVZZ   <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+198,5.5840920,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for JEJJTPVLN  <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+199,5.5841506,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for JHQDYHGIOSOMWYN<00> <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+200,5.5853814,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:3,,LLMNR,"LLMNR:QueryId = 0xE57C, Standard, Query  for gfemkyqvzz of type Host Addr on class Internet","{UDP:51, IPv6:3}"
+201,5.5853814,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:3,,LLMNR,"LLMNR:QueryId = 0x8280, Standard, Query  for jhqdyhgiosomwyn of type Host Addr on class Internet","{UDP:52, IPv6:3}"
+202,5.5854139,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:3,,LLMNR,"LLMNR:QueryId = 0x5C5E, Standard, Query  for jejjtpvln of type Host Addr on class Internet","{UDP:53, IPv6:3}"
+203,5.5855773,10.231.231.191,224.0.0.252,,LLMNR,"LLMNR:QueryId = 0x8280, Standard, Query  for jhqdyhgiosomwyn of type Host Addr on class Internet","{UDP:54, IPv4:5}"
+204,5.5856077,10.231.231.191,224.0.0.252,,LLMNR,"LLMNR:QueryId = 0xE57C, Standard, Query  for gfemkyqvzz of type Host Addr on class Internet","{UDP:55, IPv4:5}"
+205,5.5856183,10.231.231.191,224.0.0.252,,LLMNR,"LLMNR:QueryId = 0x5C5E, Standard, Query  for jejjtpvln of type Host Addr on class Internet","{UDP:56, IPv4:5}"
+206,5.5857355,10.231.231.191,128.194.254.1,,DNS,"DNS:QueryId = 0x98E7, QUERY (Standard query), Query  for www.google.com of type Host Addr on class Internet","{DNS:58, UDP:57, IPv4:32}"
+207,5.5857458,10.231.231.191,128.194.254.1,,DNS,"DNS:QueryId = 0x4D98, QUERY (Standard query), Query  for mtalk.google.com of type Host Addr on class Internet","{DNS:60, UDP:59, IPv4:32}"
+208,5.5875449,10.231.231.191,docs.google.com,,TCP,"TCP:Flags=......S., SrcPort=3362, DstPort=HTTPS(443), PayloadLen=0, Seq=3932391811, Ack=0, Win=17520 ( Negotiating scale factor 0x8 ) = 17520","{TCP:61, IPv4:42}"
+209,5.5881454,128.194.254.1,10.231.231.191,210 (0xD2),DNS,"DNS:QueryId = 0x98E7, QUERY (Standard query), Response - Success, 172.217.12.4 ","{DNS:58, UDP:57, IPv4:32}"
+210,5.5884888,128.194.254.1,10.231.231.191,210 (0xD2),DNS,"DNS:QueryId = 0x4D98, QUERY (Standard query), Response - Success, 54, 0 ","{DNS:60, UDP:59, IPv4:32}"
+211,5.5918891,10.231.231.191,www.google.com,,UDP,"UDP:SrcPort = 52974, DstPort = HTTPS(443), Length = 1358","{UDP:63, IPv4:62}"
+212,5.5926806,10.231.231.191,mobile-gtalk.l.google.com,,TCP,"TCP:Flags=......S., SrcPort=3363, DstPort=5228, PayloadLen=0, Seq=718817238, Ack=0, Win=17520 ( Negotiating scale factor 0x8 ) = 17520","{TCP:64, IPv4:30}"
+213,5.5937233,10.231.231.191,www.google.com,,TCP,"TCP:Flags=......S., SrcPort=3364, DstPort=HTTPS(443), PayloadLen=0, Seq=2133270480, Ack=0, Win=17520 ( Negotiating scale factor 0x8 ) = 17520","{TCP:65, IPv4:62}"
+214,5.5955271,10.231.231.191,docs.google.com,,UDP,"UDP:SrcPort = 52973, DstPort = HTTPS(443), Length = 1358","{UDP:66, IPv4:42}"
+215,5.5989321,docs.google.com,10.231.231.191,210 (0xD2),TCP,"TCP:Flags=...A..S., SrcPort=HTTPS(443), DstPort=3362, PayloadLen=0, Seq=4281428573, Ack=3932391812, Win=42780 ( Negotiated scale factor 0x8 ) = 10951680","{TCP:61, IPv4:42}"
+216,5.5990736,10.231.231.191,docs.google.com,,TCP,"TCP:Flags=...A...., SrcPort=3362, DstPort=HTTPS(443), PayloadLen=0, Seq=3932391812, Ack=4281428574, Win=68 (scale factor 0x8) = 17408","{TCP:61, IPv4:42}"
+217,5.5995898,10.231.231.191,docs.google.com,,TLS,TLS:TLS Rec Layer-1 HandShake: Client Hello.,"{TLS:68, SSLVersionSelector:67, TCP:61, IPv4:42}"
+218,5.6102598,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+219,5.6104779,mobile-gtalk.l.google.com,10.231.231.191,210 (0xD2),TCP,"TCP:Flags=...A..S., SrcPort=5228, DstPort=3363, PayloadLen=0, Seq=2408238439, Ack=718817239, Win=42780 ( Negotiated scale factor 0x8 ) = 10951680","{TCP:64, IPv4:30}"
+220,5.6106036,10.231.231.191,mobile-gtalk.l.google.com,,TCP,"TCP:Flags=...A...., SrcPort=3363, DstPort=5228, PayloadLen=0, Seq=718817239, Ack=2408238440, Win=68 (scale factor 0x8) = 17408","{TCP:64, IPv4:30}"
+221,5.6110582,10.231.231.191,mobile-gtalk.l.google.com,,TLS,TLS:TLS Rec Layer-1 HandShake: Client Hello.,"{TLS:70, SSLVersionSelector:69, TCP:64, IPv4:30}"
+222,5.6125448,docs.google.com,10.231.231.191,210 (0xD2),TCP,"TCP:Flags=...A...., SrcPort=HTTPS(443), DstPort=3362, PayloadLen=0, Seq=4281428574, Ack=3932392329, Win=172 (scale factor 0x8) = 44032","{TCP:61, IPv4:42}"
+223,5.6148229,docs.google.com,10.231.231.191,210 (0xD2),UDP,"UDP:SrcPort = HTTPS(443), DstPort = 52973, Length = 1358","{UDP:66, IPv4:42}"
+224,5.6156974,docs.google.com,10.231.231.191,210 (0xD2),UDP,"UDP:SrcPort = HTTPS(443), DstPort = 52973, Length = 39","{UDP:66, IPv4:42}"
+225,5.6161448,10.231.231.191,docs.google.com,,UDP,"UDP:SrcPort = 52973, DstPort = HTTPS(443), Length = 47","{UDP:66, IPv4:42}"
+226,5.6164591,10.231.231.191,docs.google.com,,UDP,"UDP:SrcPort = 52973, DstPort = HTTPS(443), Length = 46","{UDP:66, IPv4:42}"
+227,5.6170818,10.231.231.191,docs.google.com,,UDP,"UDP:SrcPort = 52973, DstPort = HTTPS(443), Length = 630","{UDP:66, IPv4:42}"
+228,5.6172665,10.231.231.191,docs.google.com,,UDP,"UDP:SrcPort = 52973, DstPort = HTTPS(443), Length = 281","{UDP:66, IPv4:42}"
+229,5.6191371,www.google.com,10.231.231.191,210 (0xD2),TCP,"TCP:Flags=...A..S., SrcPort=HTTPS(443), DstPort=3364, PayloadLen=0, Seq=3725707289, Ack=2133270481, Win=42780 ( Negotiated scale factor 0x8 ) = 10951680","{TCP:65, IPv4:62}"
+230,5.6194467,10.231.231.191,www.google.com,,TCP,"TCP:Flags=...A...., SrcPort=3364, DstPort=HTTPS(443), PayloadLen=0, Seq=2133270481, Ack=3725707290, Win=68 (scale factor 0x8) = 17408","{TCP:65, IPv4:62}"
+231,5.6198256,docs.google.com,10.231.231.191,210 (0xD2),TLS,TLS:TLS Rec Layer-1 HandShake: Server Hello.; TLS Rec Layer-2 HandShake: Certificate.,"{TLS:68, SSLVersionSelector:67, TCP:61, IPv4:42}"
+232,5.6207010,10.231.231.191,www.google.com,,TLS,TLS:TLS Rec Layer-1 HandShake: Client Hello.,"{TLS:72, SSLVersionSelector:71, TCP:65, IPv4:62}"
+233,5.6208361,docs.google.com,10.231.231.191,210 (0xD2),TCP,"TCP:[Continuation to #231]Flags=...A...., SrcPort=HTTPS(443), DstPort=3362, PayloadLen=1386, Seq=4281429960 - 4281431346, Ack=3932392329, Win=172 (scale factor 0x8) = 44032","{TCP:61, IPv4:42}"
+234,5.6211941,10.231.231.191,docs.google.com,,TCP,"TCP:Flags=...A...., SrcPort=3362, DstPort=HTTPS(443), PayloadLen=0, Seq=3932392329, Ack=4281431346, Win=68 (scale factor 0x8) = 17408","{TCP:61, IPv4:42}"
+235,5.6212826,docs.google.com,10.231.231.191,210 (0xD2),TCP,"TCP:[Continuation to #231]Flags=...A...., SrcPort=HTTPS(443), DstPort=3362, PayloadLen=1386, Seq=4281431346 - 4281432732, Ack=3932392329, Win=172 (scale factor 0x8) = 44032","{TCP:61, IPv4:42}"
+236,5.6215927,docs.google.com,10.231.231.191,210 (0xD2),TCP,"TCP:[Continuation to #231]Flags=...AP..., SrcPort=HTTPS(443), DstPort=3362, PayloadLen=206, Seq=4281432732 - 4281432938, Ack=3932392329, Win=172 (scale factor 0x8) = 44032","{TCP:61, IPv4:42}"
+237,5.6216962,10.231.231.191,docs.google.com,,TCP,"TCP:Flags=...A...., SrcPort=3362, DstPort=HTTPS(443), PayloadLen=0, Seq=3932392329, Ack=4281432938, Win=68 (scale factor 0x8) = 17408","{TCP:61, IPv4:42}"
+238,5.6242048,10.231.231.191,docs.google.com,,TLS,TLS:TLS Rec Layer-1 HandShake: Client Key Exchange.; TLS Rec Layer-2 Cipher Change Spec; TLS Rec Layer-3 HandShake: Encrypted Handshake Message.,"{TLS:68, SSLVersionSelector:67, TCP:61, IPv4:42}"
+239,5.6270842,mobile-gtalk.l.google.com,10.231.231.191,210 (0xD2),TCP,"TCP:Flags=...A...., SrcPort=5228, DstPort=3363, PayloadLen=0, Seq=2408238440, Ack=718817756, Win=172 (scale factor 0x8) = 44032","{TCP:64, IPv4:30}"
+240,5.6279566,mobile-gtalk.l.google.com,10.231.231.191,210 (0xD2),TLS,TLS:TLS Rec Layer-1 HandShake: Server Hello.; TLS Rec Layer-2 HandShake: Certificate.,"{TLS:70, SSLVersionSelector:69, TCP:64, IPv4:30}"
+241,5.6283167,www.google.com,10.231.231.191,210 (0xD2),UDP,"UDP:SrcPort = HTTPS(443), DstPort = 52974, Length = 1358","{UDP:63, IPv4:62}"
+242,5.6287200,mobile-gtalk.l.google.com,10.231.231.191,210 (0xD2),TCP,"TCP:[Continuation to #240]Flags=...A...., SrcPort=5228, DstPort=3363, PayloadLen=1386, Seq=2408239826 - 2408241212, Ack=718817756, Win=172 (scale factor 0x8) = 44032","{TCP:64, IPv4:30}"
+243,5.6290488,10.231.231.191,mobile-gtalk.l.google.com,,TCP,"TCP:Flags=...A...., SrcPort=3363, DstPort=5228, PayloadLen=0, Seq=718817756, Ack=2408241212, Win=68 (scale factor 0x8) = 17408","{TCP:64, IPv4:30}"
+244,5.6291373,www.google.com,10.231.231.191,210 (0xD2),UDP,"UDP:SrcPort = HTTPS(443), DstPort = 52974, Length = 1358","{UDP:63, IPv4:62}"
+245,5.6291373,docs.google.com,10.231.231.191,210 (0xD2),UDP,"UDP:SrcPort = HTTPS(443), DstPort = 52973, Length = 44","{UDP:66, IPv4:42}"
+246,5.6293080,mobile-gtalk.l.google.com,10.231.231.191,210 (0xD2),TCP,"TCP:[Continuation to #240]Flags=...A...., SrcPort=5228, DstPort=3363, PayloadLen=1386, Seq=2408241212 - 2408242598, Ack=718817756, Win=172 (scale factor 0x8) = 44032","{TCP:64, IPv4:30}"
+247,5.6297656,mobile-gtalk.l.google.com,10.231.231.191,210 (0xD2),TCP,"TCP:[Continuation to #240]Flags=...AP..., SrcPort=5228, DstPort=3363, PayloadLen=203, Seq=2408242598 - 2408242801, Ack=718817756, Win=172 (scale factor 0x8) = 44032","{TCP:64, IPv4:30}"
+248,5.6299208,10.231.231.191,mobile-gtalk.l.google.com,,TCP,"TCP:Flags=...A...., SrcPort=3363, DstPort=5228, PayloadLen=0, Seq=718817756, Ack=2408242801, Win=68 (scale factor 0x8) = 17408","{TCP:64, IPv4:30}"
+249,5.6348876,docs.google.com,10.231.231.191,210 (0xD2),TLS,TLS:TLS Rec Layer-1 HandShake: Encrypted Handshake Message.; TLS Rec Layer-2 Cipher Change Spec; TLS Rec Layer-3 HandShake: Encrypted Handshake Message.,"{TLS:68, SSLVersionSelector:67, TCP:61, IPv4:42}"
+250,5.6350540,docs.google.com,10.231.231.191,210 (0xD2),TLS,TLS:TLS Rec Layer-1 SSL Application Data,"{TLS:68, SSLVersionSelector:67, TCP:61, IPv4:42}"
+251,5.6351621,10.231.231.191,docs.google.com,,TCP,"TCP:Flags=...A...., SrcPort=3362, DstPort=HTTPS(443), PayloadLen=0, Seq=3932392422, Ack=4281433237, Win=67 (scale factor 0x8) = 17152","{TCP:61, IPv4:42}"
+252,5.6369724,10.231.231.191,www.google.com,,UDP,"UDP:SrcPort = 52974, DstPort = HTTPS(443), Length = 1358","{UDP:63, IPv4:62}"
+253,5.6403192,10.231.231.191,mobile-gtalk.l.google.com,,TLS,TLS:TLS Rec Layer-1 HandShake: Client Key Exchange.; TLS Rec Layer-2 Cipher Change Spec; TLS Rec Layer-3 HandShake: Encrypted Handshake Message.; TLS Rec Layer-4 HandShake: Encrypted Handshake Message.,"{TLS:70, SSLVersionSelector:69, TCP:64, IPv4:30}"
+254,5.6410270,10.231.231.191,www.google.com,,UDP,"UDP:SrcPort = 52974, DstPort = HTTPS(443), Length = 825","{UDP:63, IPv4:62}"
+255,5.6456217,www.google.com,10.231.231.191,210 (0xD2),TCP,"TCP:Flags=...A...., SrcPort=HTTPS(443), DstPort=3364, PayloadLen=0, Seq=3725707290, Ack=2133270998, Win=172 (scale factor 0x8) = 44032","{TCP:65, IPv4:62}"
+256,5.6467452,docs.google.com,10.231.231.191,210 (0xD2),UDP,"UDP:SrcPort = HTTPS(443), DstPort = 52973, Length = 168","{UDP:66, IPv4:42}"
+257,5.6470202,docs.google.com,10.231.231.191,210 (0xD2),UDP,"UDP:SrcPort = HTTPS(443), DstPort = 52973, Length = 24","{UDP:66, IPv4:42}"
+258,5.6473576,10.231.231.191,docs.google.com,,UDP,"UDP:SrcPort = 52973, DstPort = HTTPS(443), Length = 49","{UDP:66, IPv4:42}"
+259,5.6564833,www.google.com,10.231.231.191,210 (0xD2),TLS,TLS:TLS Rec Layer-1 HandShake: Server Hello.; TLS Rec Layer-2 HandShake: Certificate.,"{TLS:72, SSLVersionSelector:71, TCP:65, IPv4:62}"
+260,5.6569542,www.google.com,10.231.231.191,210 (0xD2),TCP,"TCP:[Continuation to #259]Flags=...A...., SrcPort=HTTPS(443), DstPort=3364, PayloadLen=1386, Seq=3725708676 - 3725710062, Ack=2133270998, Win=172 (scale factor 0x8) = 44032","{TCP:65, IPv4:62}"
+261,5.6573095,10.231.231.191,www.google.com,,TCP,"TCP:Flags=...A...., SrcPort=3364, DstPort=HTTPS(443), PayloadLen=0, Seq=2133270998, Ack=3725710062, Win=68 (scale factor 0x8) = 17408","{TCP:65, IPv4:62}"
+262,5.6574186,www.google.com,10.231.231.191,210 (0xD2),TCP,"TCP:[Continuation to #259]Flags=...AP..., SrcPort=HTTPS(443), DstPort=3364, PayloadLen=629, Seq=3725710062 - 3725710691, Ack=2133270998, Win=172 (scale factor 0x8) = 44032","{TCP:65, IPv4:62}"
+263,5.6579664,mobile-gtalk.l.google.com,10.231.231.191,210 (0xD2),TLS,TLS:TLS Rec Layer-1 HandShake: Encrypted Handshake Message.; TLS Rec Layer-2 Cipher Change Spec; TLS Rec Layer-3 HandShake: Encrypted Handshake Message.,"{TLS:70, SSLVersionSelector:69, TCP:64, IPv4:30}"
+264,5.6606080,10.231.231.191,www.google.com,,TLS,TLS:TLS Rec Layer-1 HandShake: Client Key Exchange.; TLS Rec Layer-2 Cipher Change Spec; TLS Rec Layer-3 HandShake: Encrypted Handshake Message.; TLS Rec Layer-4 HandShake: Encrypted Handshake Message.,"{TLS:72, SSLVersionSelector:71, TCP:65, IPv4:62}"
+265,5.6725071,www.google.com,10.231.231.191,210 (0xD2),UDP,"UDP:SrcPort = HTTPS(443), DstPort = 52974, Length = 1358","{UDP:63, IPv4:62}"
+266,5.6726640,www.google.com,10.231.231.191,210 (0xD2),UDP,"UDP:SrcPort = HTTPS(443), DstPort = 52974, Length = 39","{UDP:63, IPv4:62}"
+267,5.6736293,10.231.231.191,www.google.com,,UDP,"UDP:SrcPort = 52974, DstPort = HTTPS(443), Length = 49","{UDP:63, IPv4:62}"
+268,5.6739453,10.231.231.191,www.google.com,,UDP,"UDP:SrcPort = 52974, DstPort = HTTPS(443), Length = 46","{UDP:63, IPv4:62}"
+269,5.6851481,www.google.com,10.231.231.191,210 (0xD2),TLS,TLS:TLS Rec Layer-1 HandShake: Encrypted Handshake Message.; TLS Rec Layer-2 Cipher Change Spec; TLS Rec Layer-3 HandShake: Encrypted Handshake Message.,"{TLS:72, SSLVersionSelector:71, TCP:65, IPv4:62}"
+270,5.6953781,10.231.231.191,mobile-gtalk.l.google.com,,TLS,TLS:TLS Rec Layer-1 SSL Application Data,"{TLS:70, SSLVersionSelector:69, TCP:64, IPv4:30}"
+271,5.6986590,www.google.com,10.231.231.191,210 (0xD2),UDP,"UDP:SrcPort = HTTPS(443), DstPort = 52974, Length = 38","{UDP:63, IPv4:62}"
+272,5.7127999,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+273,5.7188777,www.google.com,10.231.231.191,210 (0xD2),UDP,"UDP:SrcPort = HTTPS(443), DstPort = 52974, Length = 453","{UDP:63, IPv4:62}"
+274,5.7192258,www.google.com,10.231.231.191,210 (0xD2),UDP,"UDP:SrcPort = HTTPS(443), DstPort = 52974, Length = 27","{UDP:63, IPv4:62}"
+275,5.7194824,www.google.com,10.231.231.191,210 (0xD2),UDP,"UDP:SrcPort = HTTPS(443), DstPort = 52974, Length = 213","{UDP:63, IPv4:62}"
+276,5.7195641,10.231.231.191,www.google.com,,UDP,"UDP:SrcPort = 52974, DstPort = HTTPS(443), Length = 49","{UDP:63, IPv4:62}"
+277,5.7265905,10.231.231.191,www.google.com,,TCP,"TCP:Flags=...A...., SrcPort=3364, DstPort=HTTPS(443), PayloadLen=0, Seq=2133271256, Ack=3725710969, Win=64 (scale factor 0x8) = 16384","{TCP:65, IPv4:62}"
+278,5.7456095,10.231.231.191,www.google.com,,UDP,"UDP:SrcPort = 52974, DstPort = HTTPS(443), Length = 43","{UDP:63, IPv4:62}"
+279,5.7510100,mobile-gtalk.l.google.com,10.231.231.191,210 (0xD2),TCP,"TCP:Flags=...A...., SrcPort=5228, DstPort=3363, PayloadLen=0, Seq=2408243122, Ack=718818230, Win=180 (scale factor 0x8) = 46080","{TCP:64, IPv4:30}"
+280,5.9957273,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:3,,LLMNR,"LLMNR:QueryId = 0x8280, Standard, Query  for jhqdyhgiosomwyn of type Host Addr on class Internet","{UDP:52, IPv6:3}"
+281,5.9957273,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:3,,LLMNR,"LLMNR:QueryId = 0x5C5E, Standard, Query  for jejjtpvln of type Host Addr on class Internet","{UDP:53, IPv6:3}"
+282,5.9957709,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:3,,LLMNR,"LLMNR:QueryId = 0xE57C, Standard, Query  for gfemkyqvzz of type Host Addr on class Internet","{UDP:51, IPv6:3}"
+283,5.9959501,10.231.231.191,224.0.0.252,,LLMNR,"LLMNR:QueryId = 0x8280, Standard, Query  for jhqdyhgiosomwyn of type Host Addr on class Internet","{UDP:54, IPv4:5}"
+284,5.9960330,10.231.231.191,224.0.0.252,,LLMNR,"LLMNR:QueryId = 0x5C5E, Standard, Query  for jejjtpvln of type Host Addr on class Internet","{UDP:56, IPv4:5}"
+285,5.9961541,10.231.231.191,224.0.0.252,,LLMNR,"LLMNR:QueryId = 0xE57C, Standard, Query  for gfemkyqvzz of type Host Addr on class Internet","{UDP:55, IPv4:5}"
+286,6.0199505,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+287,6.0201408,mobile-gtalk.l.google.com,10.231.231.191,210 (0xD2),TLS,TLS:TLS Rec Layer-1 SSL Application Data,"{TLS:70, SSLVersionSelector:69, TCP:64, IPv4:30}"
+288,6.0229479,mobile-gtalk.l.google.com,10.231.231.191,210 (0xD2),TLS,TLS:TLS Rec Layer-1 SSL Application Data,"{TLS:70, SSLVersionSelector:69, TCP:64, IPv4:30}"
+289,6.0231545,10.231.231.191,mobile-gtalk.l.google.com,,TCP,"TCP:Flags=...A...., SrcPort=3363, DstPort=5228, PayloadLen=0, Seq=718818230, Ack=2408243271, Win=66 (scale factor 0x8) = 16896","{TCP:64, IPv4:30}"
+290,6.0260351,mobile-gtalk.l.google.com,10.231.231.191,210 (0xD2),TLS,TLS:TLS Rec Layer-1 SSL Application Data,"{TLS:70, SSLVersionSelector:69, TCP:64, IPv4:30}"
+291,6.0556934,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for WPAD   <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+292,6.0655060,10.231.231.191,mobile-gtalk.l.google.com,,TCP,"TCP:Flags=...A...., SrcPort=3363, DstPort=5228, PayloadLen=0, Seq=718818230, Ack=2408243405, Win=66 (scale factor 0x8) = 16896","{TCP:64, IPv4:30}"
+293,6.0826070,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for WPAD   <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+294,6.0847308,10.231.231.191,239.255.255.250,,SSDP,"SSDP:Request, M-SEARCH * ","{HTTP:46, UDP:45, IPv4:27}"
+295,6.1222416,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+296,6.2246872,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+297,6.3155065,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:2,,DHCPV6,DHCPV6:MessageType = SOLICIT,"{UDP:3, IPv6:2}"
+298,6.3271011,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+299,6.3335155,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for JHQDYHGIOSOMWYN<00> <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+300,6.3337592,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for JEJJTPVLN  <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+301,6.3339098,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for GFEMKYQVZZ   <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+302,6.4295740,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+303,6.5319195,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+304,6.7367387,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+305,6.8391945,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+306,6.9415361,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+307,7.0439055,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+308,7.0717061,10.231.231.191,224.0.0.251,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 52","{UDP:46, IPv4:45}"
+309,7.0720465,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:FB,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 52","{UDP:48, IPv6:47}"
+310,7.0723219,10.231.231.191,224.0.0.251,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 52","{UDP:46, IPv4:45}"
+311,7.0724485,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:FB,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 52","{UDP:48, IPv6:47}"
+312,7.0726995,10.231.231.191,224.0.0.251,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 41","{UDP:46, IPv4:45}"
+313,7.0728163,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:FB,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 41","{UDP:48, IPv6:47}"
+314,7.0730532,10.231.231.191,224.0.0.251,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 41","{UDP:46, IPv4:45}"
+315,7.0731802,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:FB,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 41","{UDP:48, IPv6:47}"
+316,7.0734163,10.231.231.191,224.0.0.251,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 48","{UDP:46, IPv4:45}"
+317,7.0735283,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:FB,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 48","{UDP:48, IPv6:47}"
+318,7.0737764,10.231.231.191,224.0.0.251,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 48","{UDP:46, IPv4:45}"
+319,7.0738906,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:FB,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 48","{UDP:48, IPv6:47}"
+320,7.0837241,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for JHQDYHGIOSOMWYN<00> <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+321,7.0838271,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for JEJJTPVLN  <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+322,7.0838968,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for GFEMKYQVZZ   <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+323,7.0857768,10.231.231.191,239.255.255.250,,SSDP,"SSDP:Request, M-SEARCH * ","{HTTP:46, UDP:45, IPv4:27}"
+324,7.4535239,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+325,7.5170704,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:2,,ICMPv6,ICMPv6:Router Solicitation,{IPv6:11}
+326,7.5215463,10.231.231.191,17.249.60.84,,TLS,TLS:TLS Rec Layer-1 SSL Application Data,"{TLS:52, SSLVersionSelector:51, TCP:50, IPv4:49}"
+327,7.5317488,17.249.60.84,10.231.231.191,210 (0xD2),TCP,"TCP:[Segment Lost]Flags=...A...., SrcPort=5223, DstPort=2974, PayloadLen=0, Seq=1463509601, Ack=2064783473, Win=30411","{TCP:50, IPv4:49}"
+328,7.5333423,17.249.60.84,10.231.231.191,210 (0xD2),TLS,TLS:TLS Rec Layer-1 SSL Application Data,"{TLS:52, SSLVersionSelector:51, TCP:50, IPv4:49}"
+329,7.5559075,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+330,7.5739601,10.231.231.191,17.249.60.84,,TCP,"TCP:Flags=...A...., SrcPort=2974, DstPort=5223, PayloadLen=0, Seq=2064783473, Ack=1463509654, Win=17414","{TCP:50, IPv4:49}"
+331,7.6582880,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+332,7.7606976,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+333,7.8403629,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for GFEMKYQVZZ   <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+334,7.8404386,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for JEJJTPVLN  <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+335,7.8406083,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for JHQDYHGIOSOMWYN<00> <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+336,7.8430438,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:3,,LLMNR,"LLMNR:QueryId = 0x893A, Standard, Query  for gfemkyqvzz of type Host Addr on class Internet","{UDP:73, IPv6:3}"
+337,7.8433941,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:3,,LLMNR,"LLMNR:QueryId = 0x1CF2, Standard, Query  for jejjtpvln of type Host Addr on class Internet","{UDP:74, IPv6:3}"
+338,7.8434415,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:3,,LLMNR,"LLMNR:QueryId = 0x16B9, Standard, Query  for jhqdyhgiosomwyn of type Host Addr on class Internet","{UDP:75, IPv6:3}"
+339,7.8435237,10.231.231.191,224.0.0.252,,LLMNR,"LLMNR:QueryId = 0x893A, Standard, Query  for gfemkyqvzz of type Host Addr on class Internet","{UDP:76, IPv4:5}"
+340,7.8439098,10.231.231.191,224.0.0.252,,LLMNR,"LLMNR:QueryId = 0x16B9, Standard, Query  for jhqdyhgiosomwyn of type Host Addr on class Internet","{UDP:77, IPv4:5}"
+341,7.8440253,10.231.231.191,224.0.0.252,,LLMNR,"LLMNR:QueryId = 0x1CF2, Standard, Query  for jejjtpvln of type Host Addr on class Internet","{UDP:78, IPv4:5}"
+342,7.8631611,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+343,7.9654989,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+344,7.9998614,17.249.60.84,10.231.231.191,210 (0xD2),TCP,"TCP:[ReTransmit #328]Flags=...AP..., SrcPort=5223, DstPort=2974, PayloadLen=53, Seq=1463509601 - 1463509654, Ack=2064783473, Win=30411","{TCP:50, IPv4:49}"
+345,8.0000265,10.231.231.191,17.249.60.84,,TCP,"TCP:[Dup Ack #330]Flags=...A...., SrcPort=2974, DstPort=5223, PayloadLen=0, Seq=2064783473, Ack=1463509654, Win=17414","{TCP:50, IPv4:49}"
+346,8.0678303,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+347,8.0732640,10.231.231.191,224.0.0.251,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 52","{UDP:46, IPv4:45}"
+348,8.0734026,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:FB,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 52","{UDP:48, IPv6:47}"
+349,8.0736139,10.231.231.191,224.0.0.251,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 52","{UDP:46, IPv4:45}"
+350,8.0737003,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:FB,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 52","{UDP:48, IPv6:47}"
+351,8.0738769,10.231.231.191,224.0.0.251,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 41","{UDP:46, IPv4:45}"
+352,8.0739637,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:FB,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 41","{UDP:48, IPv6:47}"
+353,8.0741476,10.231.231.191,224.0.0.251,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 41","{UDP:46, IPv4:45}"
+354,8.0742348,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:FB,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 41","{UDP:48, IPv6:47}"
+355,8.0744516,10.231.231.191,224.0.0.251,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 48","{UDP:46, IPv4:45}"
+356,8.0745449,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:FB,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 48","{UDP:48, IPv6:47}"
+357,8.0747523,10.231.231.191,224.0.0.251,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 48","{UDP:46, IPv4:45}"
+358,8.0748524,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:FB,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 48","{UDP:48, IPv6:47}"
+359,8.1702446,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+360,8.2543331,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:3,,LLMNR,"LLMNR:QueryId = 0x893A, Standard, Query  for gfemkyqvzz of type Host Addr on class Internet","{UDP:73, IPv6:3}"
+361,8.2543331,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:3,,LLMNR,"LLMNR:QueryId = 0x16B9, Standard, Query  for jhqdyhgiosomwyn of type Host Addr on class Internet","{UDP:75, IPv6:3}"
+362,8.2543553,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:3,,LLMNR,"LLMNR:QueryId = 0x1CF2, Standard, Query  for jejjtpvln of type Host Addr on class Internet","{UDP:74, IPv6:3}"
+363,8.2544468,10.231.231.191,224.0.0.252,,LLMNR,"LLMNR:QueryId = 0x1CF2, Standard, Query  for jejjtpvln of type Host Addr on class Internet","{UDP:78, IPv4:5}"
+364,8.2544631,10.231.231.191,224.0.0.252,,LLMNR,"LLMNR:QueryId = 0x893A, Standard, Query  for gfemkyqvzz of type Host Addr on class Internet","{UDP:76, IPv4:5}"
+365,8.2544926,10.231.231.191,224.0.0.252,,LLMNR,"LLMNR:QueryId = 0x16B9, Standard, Query  for jhqdyhgiosomwyn of type Host Addr on class Internet","{UDP:77, IPv4:5}"
+366,8.2726097,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+367,8.3288031,10.231.231.191,239.255.255.250,,SSDP,"SSDP:Request, M-SEARCH * ","{HTTP:10, UDP:9, IPv4:27}"
+368,8.3751310,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+369,8.4538853,[B4F61C AF9AF2],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+370,8.4775727,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+371,8.5798142,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+372,8.5899338,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for GFEMKYQVZZ   <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+373,8.5900031,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for JEJJTPVLN  <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+374,8.5900467,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for JHQDYHGIOSOMWYN<00> <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+375,8.6823132,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+376,8.7847673,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+377,8.8871893,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+378,8.9895322,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+379,9.0917845,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+380,9.1942814,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+381,9.2966931,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+382,9.3403682,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for JHQDYHGIOSOMWYN<00> <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+383,9.3406085,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for JEJJTPVLN  <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+384,9.3407531,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for GFEMKYQVZZ   <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+385,9.3991891,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+386,9.4799188,[1008B1 FB0511],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = BroadCast SSID",
+387,9.4995285,[1008B1 FB0511],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = BroadCast SSID",
+388,9.5015342,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+389,9.5366989,[80000B C94267],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = BroadCast SSID",
+390,9.5376770,[80000B C94267],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa",
+391,9.5668422,[80000B C94267],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = BroadCast SSID",
+392,9.5677869,[80000B C94267],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa",
+393,9.5817524,[84100D 0BC1B4],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = BroadCast SSID, Channel = 9",
+394,9.5897123,[84100D 0BC1B4],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = BroadCast SSID, Channel = 9",
+395,9.6038454,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+396,9.6287730,[84100D 0BC1B4],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = BroadCast SSID, Channel = 10",
+397,9.6395234,[84100D 0BC1B4],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = BroadCast SSID, Channel = 11",
+398,9.6590954,[84100D 0BC1B4],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = BroadCast SSID, Channel = 11",
+399,9.7062974,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+400,9.8087002,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+401,9.8368527,[1008B1 FB0511],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = BroadCast SSID",
+402,9.8566005,[1008B1 FB0511],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = BroadCast SSID",
+403,9.8878693,[1008B1 FB0511],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = BroadCast SSID",
+404,9.9075350,[1008B1 FB0511],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = BroadCast SSID",
+405,9.9111115,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+406,10.0042145,[80000B C94267],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = BroadCast SSID",
+407,10.0051070,[80000B C94267],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa",
+408,10.0069138,[80000B C94267],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = BroadCast SSID",
+409,10.0140997,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+410,10.0751230,10.231.231.191,224.0.0.251,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 52","{UDP:46, IPv4:45}"
+411,10.0753531,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:FB,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 52","{UDP:48, IPv6:47}"
+412,10.0757487,10.231.231.191,224.0.0.251,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 52","{UDP:46, IPv4:45}"
+413,10.0759121,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:FB,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 52","{UDP:48, IPv6:47}"
+414,10.0762679,10.231.231.191,224.0.0.251,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 41","{UDP:46, IPv4:45}"
+415,10.0764278,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:FB,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 41","{UDP:48, IPv6:47}"
+416,10.0767862,10.231.231.191,224.0.0.251,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 41","{UDP:46, IPv4:45}"
+417,10.0769419,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:FB,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 41","{UDP:48, IPv6:47}"
+418,10.0772998,10.231.231.191,224.0.0.251,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 48","{UDP:46, IPv4:45}"
+419,10.0774461,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:FB,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 48","{UDP:48, IPv6:47}"
+420,10.0777920,10.231.231.191,224.0.0.251,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 48","{UDP:46, IPv4:45}"
+421,10.0779464,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:0:FB,,UDP,"UDP:SrcPort = 5353, DstPort = 5353, Length = 48","{UDP:48, IPv6:47}"
+422,10.1163832,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+423,10.1488456,[80000B C94267],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = BroadCast SSID",
+424,10.2188304,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+425,10.3213042,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+426,10.4237172,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+427,10.5260943,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+428,10.6284950,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+429,10.7307990,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+430,10.9357863,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+431,11.0380813,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+432,11.1405974,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+433,11.2429664,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+434,11.3298154,10.231.231.191,239.255.255.250,,SSDP,"SSDP:Request, M-SEARCH * ","{HTTP:10, UDP:9, IPv4:27}"
+435,11.3452708,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+436,11.4477236,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+437,11.6523829,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+438,11.7549456,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+439,11.8572907,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+440,11.9597324,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+441,12.0620689,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+442,12.1644541,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+443,12.3691977,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+444,12.4716826,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+445,12.5292154,[A0999B 0AA873],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = BroadCast SSID, Channel = 11",
+446,12.5413766,[A0999B 0AA873],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = BroadCast SSID, Channel = 11",
+447,12.5739502,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+448,12.6765476,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+449,12.7788802,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+450,12.9837418,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+451,13.0859598,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+452,13.1885371,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+453,13.2908316,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+454,13.3932695,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+455,13.4957330,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+456,13.5646038,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for WPAD   <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+457,13.5662815,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:3,,LLMNR,"LLMNR:QueryId = 0xE405, Standard, Query  for wpad of type Host Addr on class Internet","{UDP:79, IPv6:3}"
+458,13.5665402,10.231.231.191,224.0.0.252,,LLMNR,"LLMNR:QueryId = 0xE405, Standard, Query  for wpad of type Host Addr on class Internet","{UDP:80, IPv4:5}"
+459,13.5897961,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for WPAD   <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+460,13.5916170,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:3,,LLMNR,"LLMNR:QueryId = 0x86E9, Standard, Query  for wpad of type Host Addr on class Internet","{UDP:81, IPv6:3}"
+461,13.5919331,10.231.231.191,224.0.0.252,,LLMNR,"LLMNR:QueryId = 0x86E9, Standard, Query  for wpad of type Host Addr on class Internet","{UDP:82, IPv4:5}"
+462,13.5979442,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+463,13.8029105,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+464,13.9054207,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+465,13.9764075,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:3,,LLMNR,"LLMNR:QueryId = 0xE405, Standard, Query  for wpad of type Host Addr on class Internet","{UDP:79, IPv6:3}"
+466,13.9767034,10.231.231.191,224.0.0.252,,LLMNR,"LLMNR:QueryId = 0xE405, Standard, Query  for wpad of type Host Addr on class Internet","{UDP:80, IPv4:5}"
+467,14.0025736,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:3,,LLMNR,"LLMNR:QueryId = 0x86E9, Standard, Query  for wpad of type Host Addr on class Internet","{UDP:81, IPv6:3}"
+468,14.0028597,10.231.231.191,224.0.0.252,,LLMNR,"LLMNR:QueryId = 0x86E9, Standard, Query  for wpad of type Host Addr on class Internet","{UDP:82, IPv4:5}"
+469,14.0077114,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+470,14.1099303,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+471,14.2124434,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+472,14.3140075,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for WPAD   <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+473,14.3148419,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+474,14.3170311,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:2,,DHCPV6,DHCPV6:MessageType = SOLICIT,"{UDP:3, IPv6:2}"
+475,14.3302285,10.231.231.191,239.255.255.250,,SSDP,"SSDP:Request, M-SEARCH * ","{HTTP:10, UDP:9, IPv4:27}"
+476,14.3389578,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for WPAD   <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+477,14.4172400,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+478,14.5196274,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+479,14.6220998,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+480,14.7244205,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+481,14.8269144,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+482,14.9292085,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+483,15.0316164,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+484,15.0645219,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for WPAD   <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+485,15.0895085,10.231.231.191,10.231.255.255,,NbtNs,NbtNs:Query Request for WPAD   <0x00> Workstation Service,"{UDP:2, IPv4:1}"
+486,15.2364096,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+487,15.3389107,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+488,15.4412010,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+489,15.5435927,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+490,15.6460130,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+491,15.6807172,www.google.com,10.231.231.191,212 (0xD4),TCP,"TCP:Flags=...A...F, SrcPort=HTTPS(443), DstPort=3364, PayloadLen=0, Seq=3725710969, Ack=2133271256, Win=176 (scale factor 0x8) = 45056","{TCP:65, IPv4:62}"
+492,15.6809139,10.231.231.191,www.google.com,,TCP,"TCP:Flags=...A...., SrcPort=3364, DstPort=HTTPS(443), PayloadLen=0, Seq=2133271256, Ack=3725710970, Win=64 (scale factor 0x8) = 16384","{TCP:65, IPv4:62}"
+493,15.7484213,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+494,15.8509088,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+495,15.9532992,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+496,16.0555360,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+497,16.1579033,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+498,16.2459968,[84100D 9EF129],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 212 dBm, Rate = Unknown, SSID = ABCDEFG, Channel = 11",
+499,16.2604121,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+500,16.3627525,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+501,16.4652241,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+502,16.6700938,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+503,16.7291354,[48E244 AA2EBF],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 212 dBm, Rate = Unknown, SSID = BroadCast SSID",
+504,16.7723970,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+505,16.8748100,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+506,16.9772564,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+507,17.0795253,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+508,17.2291711,[48E244 AA2EBF],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 212 dBm, Rate = Unknown, SSID = BroadCast SSID",
+509,17.2843942,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+510,17.3867987,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+511,17.4892027,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+512,17.5914716,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+513,17.6940656,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+514,18.1034543,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+515,18.2058759,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+516,18.2385842,[80000B C94474],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 212 dBm, Rate = Unknown, SSID = BroadCast SSID",
+517,18.2395007,[80000B C94474],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa",
+518,18.3083112,[24DEC6 11ECE1],[*BROADCAST],213 (0xD5),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 213 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+519,18.4107939,[24DEC6 11ECE1],[*BROADCAST],213 (0xD5),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 213 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+520,18.4432811,[80000B C94474],[*BROADCAST],213 (0xD5),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 213 dBm, Rate = Unknown, SSID = BroadCast SSID",
+521,18.4528341,[80000B C94474],[*BROADCAST],213 (0xD5),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 213 dBm, Rate = Unknown, SSID = tamulink-wpa",
+522,18.4537536,[80000B C94474],[*BROADCAST],213 (0xD5),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 213 dBm, Rate = Unknown, SSID = BroadCast SSID",
+523,18.5133147,[24DEC6 11ECE1],[*BROADCAST],213 (0xD5),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 213 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+524,18.6156358,[24DEC6 11ECE1],[*BROADCAST],213 (0xD5),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 213 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+525,18.8204559,[24DEC6 11ECE1],[*BROADCAST],213 (0xD5),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 213 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+526,18.9227937,[24DEC6 11ECE1],[*BROADCAST],213 (0xD5),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 213 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+527,19.0251644,[24DEC6 11ECE1],[*BROADCAST],213 (0xD5),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 213 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+528,19.1275467,[24DEC6 11ECE1],[*BROADCAST],213 (0xD5),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 213 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+529,19.2299439,[24DEC6 11ECE1],[*BROADCAST],213 (0xD5),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 213 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+530,19.3324467,[24DEC6 11ECE1],[*BROADCAST],213 (0xD5),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 213 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+531,19.4347670,[24DEC6 11ECE1],[*BROADCAST],213 (0xD5),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 213 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+532,19.5371599,[24DEC6 11ECE1],[*BROADCAST],213 (0xD5),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 213 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+533,19.6396405,[24DEC6 11ECE1],[*BROADCAST],213 (0xD5),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 213 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+534,19.7420420,[24DEC6 11ECE1],[*BROADCAST],213 (0xD5),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 213 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+535,19.8443302,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+536,19.9468412,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+537,20.0694284,[60F189 F8C5DF],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+538,20.1423696,[80000B C94267],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 212 dBm, Rate = Unknown, SSID = BroadCast SSID",
+539,20.1432549,[80000B C94267],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa",
+540,20.1449642,[80000B C94267],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 212 dBm, Rate = Unknown, SSID = BroadCast SSID",
+541,20.1514825,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+542,20.2539076,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+543,20.3563206,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+544,20.4587507,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+545,20.5587574,[84100D 0BC1B4],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 212 dBm, Rate = Unknown, SSID = BroadCast SSID, Channel = 9",
+546,20.5610641,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+547,20.6179093,10.231.231.191,docs.google.com,,UDP,"UDP:SrcPort = 52973, DstPort = HTTPS(443), Length = 31","{UDP:66, IPv4:42}"
+548,20.6277064,[84100D 0BC1B4],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 212 dBm, Rate = Unknown, SSID = BroadCast SSID, Channel = 11",
+549,20.6635897,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+550,20.7408720,10.231.231.191,docs.google.com,,UDP,"UDP:SrcPort = 52973, DstPort = HTTPS(443), Length = 31","{UDP:66, IPv4:42}"
+551,20.7425091,docs.google.com,10.231.231.191,212 (0xD4),UDP,"UDP:SrcPort = HTTPS(443), DstPort = 52973, Length = 38","{UDP:66, IPv4:42}"
+552,20.7659544,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+553,20.7769160,docs.google.com,10.231.231.191,212 (0xD4),UDP,"UDP:SrcPort = HTTPS(443), DstPort = 52973, Length = 35","{UDP:66, IPv4:42}"
+554,20.8684269,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+555,20.9708331,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+556,21.0731268,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+557,21.1755672,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+558,21.2779349,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+559,21.3803783,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+560,21.5850616,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+561,21.7900668,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+562,21.8924140,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+563,21.9947308,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+564,22.0970780,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+565,22.3018973,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+566,22.4043287,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+567,22.5066998,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+568,22.6090393,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+569,22.7114896,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+570,23.0187137,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+571,23.1209959,[24DEC6 11ECE1],[*BROADCAST],212 (0xD4),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 212 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+572,23.2235920,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+573,23.3259875,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+574,23.4283971,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+575,23.7356153,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+576,23.8379436,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+577,23.9403665,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+578,24.0426915,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+579,24.1450570,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+580,24.2474966,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+581,24.4522876,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+582,24.5546801,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+583,24.6570081,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+584,24.7594865,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+585,24.8619381,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+586,25.1690788,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+587,25.2714837,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+588,25.3682791,[F04F7C 1B02BC],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = BroadCast SSID",
+589,25.3698409,[F04F7C 1B02BC],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 211 dBm, Rate = Unknown, SSID = BroadCast SSID",
+590,25.3738562,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+591,25.4762504,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+592,25.5786065,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+593,25.6810769,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+594,25.7834878,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+595,25.8859671,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+596,25.9884234,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+597,25.9897906,10.231.231.191,64.233.171.125,,TLS,TLS:Continued Data: 1 Bytes,"{TLS:8, SSLVersionSelector:7, TCP:2, IPv4:1}"
+598,26.0063673,64.233.171.125,10.231.231.191,211 (0xD3),TCP,"TCP:[Segment Lost]Flags=...A...., SrcPort=5222, DstPort=2991, PayloadLen=0, Seq=1731804276, Ack=67439969, Win=286","{TCP:2, IPv4:1}"
+599,26.0905866,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+600,26.1931609,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+601,26.2954611,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+602,26.3978219,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+603,26.5002606,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+604,26.6025633,[24DEC6 11ECE1],[*BROADCAST],211 (0xD3),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 211 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+605,26.7050598,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+606,26.8074514,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+607,26.9098940,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+608,27.0123374,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+609,27.2173025,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+610,27.3194311,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+611,27.4218386,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+612,27.5242563,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+613,27.6265188,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+614,27.7291222,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+615,27.8315716,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+616,28.0362446,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+617,28.1385092,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+618,28.2410561,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+619,28.3434242,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+620,28.4460250,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+621,28.7530187,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+622,28.8553086,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+623,28.9578747,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+624,29.0602150,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+625,29.1625913,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+626,29.2650377,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+627,29.3675923,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+628,29.4698244,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+629,29.5722101,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+630,29.6686766,[80000B C94267],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa",
+631,29.6696046,[80000B C94267],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementProbe request] ....... RSSI = 210 dBm, Rate = Unknown, SSID = BroadCast SSID",
+632,29.6746296,[24DEC6 11ECE1],[*BROADCAST],210 (0xD2),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 210 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+633,29.7770110,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+634,29.8794980,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+635,30.0841367,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+636,30.1865887,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+637,30.2890180,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+638,30.3171470,FE80:0:0:0:FDF4:508D:125E:8B3B,FF02:0:0:0:0:0:1:2,,DHCPV6,DHCPV6:MessageType = SOLICIT,"{UDP:3, IPv6:2}"
+639,30.3914011,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+640,30.4937470,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+641,30.5961288,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+642,30.8010763,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+643,30.9034445,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+644,30.9724495,10.231.231.191,64.233.171.125,,TCP,"TCP:[Continuation to #597]Flags=...AP..., SrcPort=2991, DstPort=5222, PayloadLen=30, Seq=67439969 - 67439999, Ack=1731804276, Win=63","{TCP:2, IPv4:1}"
+645,30.9886902,64.233.171.125,10.231.231.191,209 (0xD1),TCP,"TCP:Flags=...A...., SrcPort=5222, DstPort=2991, PayloadLen=0, Seq=1731804276, Ack=67439999, Win=286","{TCP:2, IPv4:1}"
+646,31.0058832,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+647,31.1081795,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+648,31.2105904,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+649,31.3130556,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+650,31.4153754,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+651,31.6203007,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+652,31.7226671,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+653,31.8250673,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+654,31.9274226,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+655,32.0301132,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+656,32.2346613,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+657,32.3369829,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+658,32.4393536,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+659,32.5417858,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+660,32.6440441,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+661,32.6460973,52.22.142.21,10.231.231.191,209 (0xD1),TLS,TLS:TLS Rec Layer-1 Encrypted Alert,"{TLS:86, SSLVersionSelector:85, TCP:84, IPv4:83}"
+662,32.6464167,10.231.231.191,52.22.142.21,,TLS,TLS:TLS Rec Layer-1 Encrypted Alert,"{TLS:86, SSLVersionSelector:85, TCP:84, IPv4:83}"
+663,32.6464851,10.231.231.191,52.22.142.21,,TCP,"TCP:Flags=...A...F, SrcPort=3358, DstPort=HTTPS(443), PayloadLen=0, Seq=2173220892, Ack=1385846785, Win=65","{TCP:84, IPv4:83}"
+664,32.7466384,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+665,32.7506806,52.22.142.21,10.231.231.191,209 (0xD1),TCP,"TCP:Flags=...A...F, SrcPort=HTTPS(443), DstPort=3358, PayloadLen=0, Seq=1385846785, Ack=2173220893, Win=157","{TCP:84, IPv4:83}"
+666,32.7509120,10.231.231.191,52.22.142.21,,TCP,"TCP:Flags=...A...., SrcPort=3358, DstPort=HTTPS(443), PayloadLen=0, Seq=2173220893, Ack=1385846786, Win=65","{TCP:84, IPv4:83}"
+667,32.8490476,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
+668,32.9514085,[24DEC6 11ECE1],[*BROADCAST],209 (0xD1),WiFi,"WiFi:[ ManagementBeacon] ....... RSSI = 209 dBm, Rate = Unknown, SSID = tamulink-wpa, Channel = 11",
