@@ -43,7 +43,7 @@ fid.close()
 
 ###add a header so we know what columns are what
 df = pd.read_csv("/Users/etdel651/Documents/Classes /ECEN 403/output/shuffle_merge.csv", header = None)
-df.columns = ["No.",	"Time",	"Source",	"Destination",	"Protocol",	"Length",	"Info",	"RSSI",	"Tile number"]
+df.columns = ["No.",	"Time",	"Source",	"Destination",	"Protocol",	"Length",	"Info",	"RSSI (dbm)",	"Tile number"]
 df.to_csv("/Users/etdel651/Documents/Classes /ECEN 403/output/shuffle_merge_header.csv")
 
 
