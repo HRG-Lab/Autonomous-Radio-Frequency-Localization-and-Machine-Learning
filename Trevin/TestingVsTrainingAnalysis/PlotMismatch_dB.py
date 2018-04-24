@@ -9,7 +9,7 @@ np.random.seed(2)
 
 addressList = []
 
-TEST_TRAIN_SET_NUMBER = 3 # This number corresponds to which testing/training data set needs to be analyzed
+TEST_TRAIN_SET_NUMBER = 4 # This number corresponds to which testing/training data set needs to be analyzed
 
 filename = 'TrainingSet' + str(TEST_TRAIN_SET_NUMBER) + '.csv'
 print("Parsing file '", filename,"'",sep='')

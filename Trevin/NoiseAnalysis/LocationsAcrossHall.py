@@ -125,10 +125,13 @@ def importDataSet(filename, isFirst=False):
 
 # importDataSet('Room154_Set1.csv', isFirst=True)
 # importDataSet('Room154_Set2.csv')
-# importDataSet('Room164_Set1.csv')
+# importDataSet('Room154_Set3.csv')
+# importDataSet('Room164_Set1.csv', isFirst=True)
 # importDataSet('Room164_Set2.csv')
+# importDataSet('Room164_Set3.csv')
 importDataSet('Room167_Set1.csv', isFirst=True)
 importDataSet('Room167_Set2.csv')
+# importDataSet('Room167_Set3.csv')
 
 numsources = len(sourceList)
 print("Number of Sources:", numsources)
@@ -148,7 +151,7 @@ for i in range(len(signalMatrix)):
 # Plot the vectors to see how closely they align
 fig, ax = plt.subplots()
 ind = np.arange(numsources)     # the x locations for the groups
-width = 0.3                    # the width of the bars
+width = 0.2                    # the width of the bars
 
 for i in range(NUM_FILES):
     plotList = [signalMatrix[i][j] for j in range(numsources)]
@@ -159,13 +162,17 @@ ax.set_title('Change in Signals Observed in Front of Room 167')
 ax.set_xticks(ind + width*(NUM_FILES-1) / 2)
 ax.set_xticklabels(sourceList)
 # ax.xaxis.set_tick_params(horizontalalignment='right')
+i = 0
 for tick in ax.xaxis.get_major_ticks():
-    tick.label.set_fontsize(8)
+    tick.label.set_fontsize(6)
     tick.label1.set_horizontalalignment('right')
-plt.xticks(rotation=20)
+    if sourceList[i].startswith('[24DEC6'):
+        tick.label1.set_color('r')
+    i += 1
+plt.xticks(rotation=30)
 matplotlib.rcParams.update({'font.size': 12})
 
-lgd = ax.legend(('Data Set 1','Data Set 2'),loc="lower right")
+lgd = ax.legend(('t = 0','t = 5 min', 't = 2 days'),loc="lower right")
 lgd.get_frame().set_alpha(1)
 plt.ylabel("Signal Strength (dBm)")
 ax.autoscale_view()
